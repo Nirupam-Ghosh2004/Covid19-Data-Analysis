@@ -35,8 +35,8 @@ streamlit run streamlit_app.py
 
 Here’s a preview of the COVID-19 Dashboard interface:
 
-![COVID-19 Dashboard Screenshot](asset/pic1)
-![COVID-19 Dashboard Screenshot](asset/pic2)
+![COVID-19 Dashboard Screenshot](asset/pic1.jpg)
+![COVID-19 Dashboard Screenshot](asset/pic2.jpg)
 
 ---
 
